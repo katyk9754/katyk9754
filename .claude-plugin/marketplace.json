@@ -7,7 +7,9 @@
     {
       "name": "frontend-slides",
       "source": "./plugins/frontend-slides",
-      "description": "Skill for building and editing frontend presentation slide decks (reveal.js, Slidev, or plain HTML/CSS/JS) from an outline or notes."
+      "description": "Zero-dependency HTML presentation generator with safe presets, bold template-library styles, PPT conversion, and anti-AI-slop design philosophy.",
+      "category": "productivity",
+      "tags": ["presentations", "slides", "html", "design", "powerpoint", "templates"]
     }
   ]
 }
