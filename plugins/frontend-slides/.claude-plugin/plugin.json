@@ -1,0 +1,10 @@
+{
+  "name": "frontend-slides",
+  "description": "Skill for building and editing frontend presentation slide decks (reveal.js, Slidev, or plain HTML/CSS/JS) from an outline or notes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "katyk9754"
+  },
+  "keywords": ["slides", "presentation", "reveal.js", "slidev", "frontend"],
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "frontend-slides",
+  "owner": {
+    "name": "katyk9754"
+  },
+  "plugins": [
+    {
+      "name": "frontend-slides",
+      "source": "./plugins/frontend-slides",
+      "description": "Skill for building and editing frontend presentation slide decks (reveal.js, Slidev, or plain HTML/CSS/JS) from an outline or notes."
+    }
+  ]
+}
